@@ -1,0 +1,6 @@
+# P2P金融投资理财互相匹配转账发红包做任务领激活币排单币医药5G众筹理财房产汽车众筹
+
+P2P金融投资理财互相转账发红包做任务领激活币排单币系统，盗版必究<br>前台：example.com 帐号：admin@example.com 密码123456<br>后台：example.com/example.com 密码admin<br>2匹配成功后，没有打款时间倒计时...修复<br>3付款凭证查看不能用...修复<br>4PIN数量出错不不能用<br>5给管理员发布信息，管理员回复不能查看到修复<br>6交易成功后，订单自动消失<br>7推广连接复制按钮，手机版不能用；修改成了分享修复<br>8后台重置密码修复<br>9后台账号密码不能修改问题修复<br>10网站后台基本设置<br>11系统服务器时间、php版本、服务器语言查看<br>12允许后台登陆的IP设置，为了更安全<br>13允许登录的时间段设置，安全<br>14云数据备份/恢复<br>15短信功能修改匹配不能发信息<br>16我的钱包，直接展示首页用户体验更好<br>17排单币可以自动开启与关闭<br>18后台界面优化调整<br>19网站前台，详细的订单信息 优化处理<br>20登录界面、注册界面、密码找回美化<br>21内部bug、代码优化<br>22全网有网站展示站的系统<br>安装环境要求 win+apache+mysql+example.com 支持伪静态<br>购买说明:<br>只出售源码，不提供任何售后服务，源码程序为虚拟商品，具有无限制复制性，example.com，否则请勿购买！<br>声明:本源码仅作学习测试使用，请勿用于非法用途，如产生任何法律纠纷与卖家无关！<br>只出售源码，不提供任何服务<br>声明:本源码仅作学习测试使用，请勿用于非法用途，如产生任何法律纠纷与卖家无关！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/mTxDG" style="color: red;">https://mega-file.org/mTxDG</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
